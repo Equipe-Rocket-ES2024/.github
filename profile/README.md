@@ -57,7 +57,7 @@ Para realizar o acesso no front, acessar `localhost:4200`
       <a href="http://github.com/JoileJr">
         <img src="https://avatars.githubusercontent.com/u/105524292?v=4" width="100px;" alt="Joile Junior"/><br>
         <sub>
-          <b>Joile Junior (Desenvolvedor)</b>
+          <b>Joile Junior (Product Owner)</b>
         </sub>
       </a>
     </td>
@@ -66,14 +66,6 @@ Para realizar o acesso no front, acessar `localhost:4200`
         <img src="https://avatars.githubusercontent.com/u/65245074?v=4" width="100px;" alt="Lucas Rachid"/><br>
         <sub>
           <b>Lucas Rachid (Scrum Master)</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="http://github.com/Marcossfel">
-        <img src="https://avatars.githubusercontent.com/u/92560161?v=4" width="100px;" alt="Marcos Felipe"/><br>
-        <sub>
-          <b>Marcos Felipe (Desenvolvedor)</b>
         </sub>
       </a>
     </td>
@@ -97,7 +89,7 @@ Para realizar o acesso no front, acessar `localhost:4200`
       <a href="http://github.com/GabrielleKw">
         <img src="https://avatars.githubusercontent.com/u/76081229?v=4" width="100px;" alt="Gabrielle Siqueira"/><br>
         <sub>
-          <b>Gabrielle Siqueira (Product Owner)</b>
+          <b>Gabrielle Siqueira (Desenvolvedor)</b>
         </sub>
       </a>
     </td>
