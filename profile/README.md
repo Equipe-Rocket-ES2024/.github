@@ -94,7 +94,7 @@ Para realizar o acesso no front, acessar `localhost:4200`
       </a>
     </td>
     <td align="center">
-      <a href="http://github.com/GabrielleKw">
+      <a href="https://github.com/costarafa">
         <img src="https://avatars.githubusercontent.com/u/39055398?v=4" width="100px;" alt="Rafaela Costa"/><br>
         <sub>
           <b>Rafaela Costa (Desenvolvedor)</b>
