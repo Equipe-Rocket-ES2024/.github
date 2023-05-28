@@ -85,22 +85,6 @@ Para realizar o acesso no front, acessar `localhost:4200`
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="http://github.com/GabrielleKw">
-        <img src="https://avatars.githubusercontent.com/u/76081229?v=4" width="100px;" alt="Gabrielle Siqueira"/><br>
-        <sub>
-          <b>Gabrielle Siqueira (Desenvolvedor)</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/costarafa">
-        <img src="https://avatars.githubusercontent.com/u/39055398?v=4" width="100px;" alt="Rafaela Costa"/><br>
-        <sub>
-          <b>Rafaela Costa (Desenvolvedor)</b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
  
