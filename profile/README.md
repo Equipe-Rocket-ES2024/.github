@@ -8,6 +8,8 @@ O intuito do software é de facilitar o agendamento de serviços estéticos masc
 * <b>Auto-cadastro</b>: O usuário realiza o próprio cadastro
 * <b>Autenticação</b>: O sistema realiza autenticação no login
 * <b>Recuperação/Alteração de senha</b>: O sistema permite recuperar/alterar a senha
+* <b>Enriquecimento cadastral</b>: O sistema permite ao usuario preencher mais informações sobre si
+* <b>Upload de imagens</b>: O sistema permite ao usuario realizar upload de uma imagem de perfil
 
 ## :wrench: Tecnologias utilizadas
 * Angular
@@ -49,7 +51,8 @@ Para realizar o acesso no front, acessar `localhost:4200`
 # - Qualquer dúvida, pode entrar em contato pelo discord Rachid#1337.
 
 ## :soon: Implementação futura
-* O que será implementado na próxima sprint?
+* Cadastro de estabelecimento
+* Agendamento
 
 ## :handshake: Colaboradores
 
@@ -59,7 +62,7 @@ Para realizar o acesso no front, acessar `localhost:4200`
       <a href="http://github.com/JoileJr">
         <img src="https://avatars.githubusercontent.com/u/105524292?v=4" width="100px;" alt="Joile Junior"/><br>
         <sub>
-          <b>Joile Junior (Product Owner)</b>
+          <b>Joile Junior (Scrum Master)</b>
         </sub>
       </a>
     </td>
@@ -67,7 +70,7 @@ Para realizar o acesso no front, acessar `localhost:4200`
       <a href="http://github.com/lucasrachid">
         <img src="https://avatars.githubusercontent.com/u/65245074?v=4" width="100px;" alt="Lucas Rachid"/><br>
         <sub>
-          <b>Lucas Rachid (Scrum Master)</b>
+          <b>Lucas Rachid (Desenvolvedor)</b>
         </sub>
       </a>
     </td>
@@ -75,7 +78,7 @@ Para realizar o acesso no front, acessar `localhost:4200`
       <a href="http://github.com/ViniciusKoiti">
         <img src="https://avatars.githubusercontent.com/u/65818436?v=4" width="100px;" alt="Vinicius Koiti"/><br>
         <sub>
-          <b>Vinicius Koiti (Desenvolvedor)</b>
+          <b>Vinicius Koiti (Product Owner)</b>
         </sub>
       </a>
     </td>
@@ -91,3 +94,4 @@ Para realizar o acesso no front, acessar `localhost:4200`
 </table>
  
 ## :dart: Status do projeto
+### EM Desenvolvimento
